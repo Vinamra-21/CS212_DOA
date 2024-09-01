@@ -1,0 +1,13 @@
+Case,Array Size,Time (seconds)
+Random,100,0.026626
+Sorted,100,0.020128
+Reverse-Sorted,100,0.011984
+Duplicate,100,0.011202
+Random,1000,0.132643
+Sorted,1000,0.121223
+Reverse-Sorted,1000,0.123011
+Duplicate,1000,0.20205
+Random,10000,1.34897
+Sorted,10000,1.41918
+Reverse-Sorted,10000,1.37826
+Duplicate,10000,1.31562
